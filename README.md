@@ -13,14 +13,6 @@ Ejercicios resueltos en PHP para la asignatura de Aplicaciones Web.
 
 ## Cómo verlos
 
-Copiar la carpeta dentro de `htdocs` de XAMPP y abrir en el navegador:
-
 ```
 http://localhost/Ejercicios-2-5-7-9/index2.php
-```
-
-o iniciar un servidor propio:
-
-```
-php -S localhost:8000
 ```
